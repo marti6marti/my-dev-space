@@ -5,110 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d5ee7cf-0831-4603-8296-5e663ea7a68f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArraysMatrius/ArrayInvers/arrayInvers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysMatrius/BubbleSort_/BubbleSort_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysMatrius/FusióArraysOrdenats/fusió.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysMatrius/Histograma_/Histograma_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysMatrius/ReduïmValorsA/reduim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysMatrius/RepetitsArray/RepetitsArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysMatrius/RotacióVector/Rotacióvector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysMatrius/SeleccionatsProgramame/SeleccionatsProgramame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysMatrius/SumaArrays/sumaArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CadenaDeCaracteres/DNI/DNI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CadenaDeCaracteres/EsPalindrom/EsPalindrom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CadenaDeCaracteres/EsborraSubcadena/EsborraSubcadena.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CadenaDeCaracteres/SenseEspais/SenseEspais.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CadenaDeCaracteres/TextInvers/TextInvers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CadenaDeCaracteres/TotesLesVocals/TotesLesVocals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CadenaDeCaracteres/VegadesSubcadena/VegadesSubcadena.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_I/Cercle/Cercle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_I/Cercle/CercleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_I/CotxePermis/Cotxe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_I/CotxePermis/Cotxe/Cotxe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_I/CotxePermis/Cotxe/CotxeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_I/CotxePermis/CotxePermis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_I/CotxePermis/PermisConduir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_I/CotxePermis/PermisConduir/PermisConduir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_I/CotxePermis/PermisConduir/PermisTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_I/Triangle/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_I/Triangle/TriangleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_II/Casa/Casa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_II/Casa/CasaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_II/Casa/Cuina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_II/Casa/Sala.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_II/Casa/gestioFerryCamio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_II/Contractes/Contracte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_II/Contractes/Empresa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_II/Contractes/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_II/Contractes/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_II/Factura/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_II/Factura/FacturaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_II/Factura/Trucada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_II/GestioCamioFerri/Camio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_II/GestioCamioFerri/Ferri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_II/GestioCamioFerri/gestioFerryCamio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_II/Matricula/Alumne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_II/Matricula/Marticula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_II/Matricula/MatriculaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Poo_II/Matricula/Modul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Proyecto_Poo/Alumne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Proyecto_Poo/Espai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Proyecto_Poo/Institut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Proyecto_Poo/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Proyecto_Poo/PersonaExterna.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Proyecto_Poo/Profesor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Proyecto_Poo/ProgramaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroduccionPOO/src/Proyecto_Poo/Reserva.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Condicionales/DiaDeLaSetmana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Condicionales/DiesMes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Condicionales/ElMesGran.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Condicionales/LaCalculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Condicionales/MajorEdat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Condicionales/MatriculaPoblenou.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Condicionales/NouCurs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Condicionales/NouCursV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Condicionales/Semafor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Condicionales/TarifesPubliques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/AparicioDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/BanderaSantJordi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/Capicua.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/Consecutius.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/ControlTemperatura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/CopiesAutomatiques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/DescomposicioFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/DesnivellCiclista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/Divisors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/ElQuadratBuit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/ElQuadratPle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/FinsN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/GraficCoronavirus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/LaCreu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/LaLinia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/MCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/MCM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/MaxMinGrafic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/MultiplicacionesPotencia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/Narcisistes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/NombreAmics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/Parells.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/Piramide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/PositiusNegatius.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/Primers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/RecorregutDescendent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/Scrabble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/SumaNombres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/SumaNombresDivisibles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Iterativos/SumesMultiplicacio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Secuenciales/DistanciesEntrePunts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Secuenciales/HelloPoblenou.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Secuenciales/IntroduceYourself.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Secuenciales/MitjanaAritmetica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Secuenciales/MitjanaAritmeticaPonderada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Secuenciales/RepartimentPressupost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Secuenciales/TempsClasse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Secuenciales/TempsClasseInvertit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Secuenciales/TempsPerdut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramacioEstructurada/src/Secuenciales/WifiRadi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,9 +15,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2sXP21FkxjXHmZDNCvfOKU2BkDp" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -131,10 +28,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.TestBookManager.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/marti/Desktop/POBLE NOU/GIT/my-dev-space/Java/EstructurasDeDatos/src/CadenaDeCaracteres"
+    "last_opened_file_path": "C:/Users/marti/Desktop/POBLE NOU/GIT/Petit-Serra-/Java/ColeccionsOperacionsAgregades"
   }
 }]]></component>
   <component name="RecentsManager">
