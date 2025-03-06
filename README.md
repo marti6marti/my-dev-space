@@ -14,6 +14,6 @@ I am passionate about computer science and am always looking for new opportuniti
 
 ## 📧 **Contact**
 
-- Email: [marti.moto6@gmail.com](mailto:marti.moto6@gmail.com)
+- Email: [serra.mriera@gmail.com](serra.mriera@gmail.com)
 
 Thank you for visiting my repository! 🚀
